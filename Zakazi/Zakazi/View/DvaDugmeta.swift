@@ -15,8 +15,8 @@ struct DvaDugmeta: View {
                 HeaderView(Title: "Zakaži", Subtitle: " ", Angle: 15, Background: .blue, offsety: -360, offsetx: 0, offsetTeksty: 40).padding(.bottom,-200).padding(.top,40)
                 
                 Text("Vi ste?").font(.system(size:50)).padding(.bottom,300).padding(.top,-110)
-               
-                
+               //sisaj ga
+            
                 
             }
             VStack{
